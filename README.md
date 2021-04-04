@@ -1,1 +1,1 @@
-# git_test
+This is rhundtofte’s first git project!
